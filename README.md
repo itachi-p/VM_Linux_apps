@@ -1,24 +1,6 @@
-# README
+# VM_Linux_apps
+(CentOS7 on VM | Ubuntu on WSL) RailsApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Vagrant上のCentOS7 或いは Windows Subsystem for Linux上のUbuntu 18.04 LTSからのpush
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Windows上で作成したRailsアプリとはローカルだけでなくGitHubリポジトリも分ける
