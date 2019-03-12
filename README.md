@@ -5,4 +5,4 @@
 
 Windows上で作成したRailsアプリとはローカルだけでなくGitHubリポジトリも分ける
 
-**strong**
+**DockerHubとの連携テスト中**
